@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da759d0f-4744-4c77-8cb2-99ce3ce15dc4" name="Default Changelist" comment="" />
+    <list default="true" id="da759d0f-4744-4c77-8cb2-99ce3ce15dc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
       <workItem from="1645538424170" duration="2287000" />
       <workItem from="1645540792628" duration="13915000" />
       <workItem from="1645606693191" duration="25000" />
-      <workItem from="1645705273368" duration="20165000" />
+      <workItem from="1645705273368" duration="20835000" />
     </task>
     <servers />
   </component>
@@ -69,10 +72,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645538632981">
+    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645729164449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645538632981" />
+    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645729164449" />
     <state x="637" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645706268735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

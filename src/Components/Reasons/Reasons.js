@@ -1,4 +1,3 @@
-// import {Chart} from "chart.js";
 import {useEffect, useState} from "react";
 import {Bar, Line} from 'react-chartjs-2';
 import { Chart as ChartJS } from 'chart.js/auto'
@@ -25,14 +24,6 @@ const Reasons = () => {
         'Damaged Luggage',
         'longlines'
     ];
-
-    useEffect(() => {
-        console.log(body)
-    }, [body]);
-
-    useEffect(() => {
-        console.log(reasons)
-    }, [reasons]);
 
     useEffect(() => {
 
@@ -77,7 +68,6 @@ const Reasons = () => {
                 return
             }
         })
-        console.log(reasons)
 
         let bF = 0
         let cT = 0
@@ -134,7 +124,7 @@ const Reasons = () => {
     const data = {
         labels: labels,
         datasets: [{
-            label: `virginAmerica`,
+            label: `${typeOfCompany}`,
             backgroundColor: 'rgb(255,99,132)',
             borderColor: 'rgb(255,41,84)',
             data: [
