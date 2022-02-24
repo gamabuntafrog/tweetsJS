@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da759d0f-4744-4c77-8cb2-99ce3ce15dc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25Szmlxh1znHonnL9zP4bZsRiHQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da759d0f-4744-4c77-8cb2-99ce3ce15dc4" name="Default Changelist" comment="" />
+      <created>1645535436567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645535436567</updated>
+      <workItem from="1645535442484" duration="51000" />
+      <workItem from="1645535690071" duration="2580000" />
+      <workItem from="1645538424170" duration="2287000" />
+      <workItem from="1645540792628" duration="13915000" />
+      <workItem from="1645606693191" duration="25000" />
+      <workItem from="1645705273368" duration="20165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645538632981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645538632981" />
+    <state x="637" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645706268735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645706268735" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1645606718038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645606718038" />
+    <state x="467" y="238" key="SettingsEditor" timestamp="1645537034966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="238" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645537034966" />
+  </component>
+</project>

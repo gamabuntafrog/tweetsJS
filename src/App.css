@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+}
+table {
+  border: none;
+}
+
+td,th {
+  border: 3px solid black;
+
+  padding: 10px;
+}
+.nav-ul {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px auto;
+  padding: 0;
+  list-style-type: none;
+}
+.nav-li {
+
+}
+a {
+  color: #61dafb;
+  background-color: #1b1e23;
+  padding: 10px;
+}
